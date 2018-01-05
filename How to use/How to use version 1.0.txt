@@ -1,0 +1,4 @@
+The calculate function if you put in one argument it will return it back.
+If you put two arguments it will say if they are equal.
+Functions:
+none in version 1.0
