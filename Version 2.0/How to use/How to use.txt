@@ -1,0 +1,11 @@
+The calculate function if you put in one argument it will return it back.
+If you put two arguments it will say if they are equal.
+Functions:
+add takes two numbers and adds them.
+Example:add(5,3)=8
+subtract takes two numbers and subtracts them
+Example:subtract(9,5)=4
+multiply takes two numbers and multiplies them
+Example:multiply(5,5)=25
+divide takes two numbers and divides them
+Example:divide(10,5)=2
